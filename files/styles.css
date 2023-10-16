@@ -1,3 +1,19 @@
 body{
     background-color: darksalmon;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: darkslategray;
+    text-align: center;
+}
+.assign{
+    background-color: darkolivegreen;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+}
+.assign img {
+    width: 200px;
+    margin: 10px;
+    
 }
