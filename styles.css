@@ -16,7 +16,8 @@ h1{
     display: flex;
 }
 .assign img{
-    width: 200px;
+    height: 600px;
+    width: 300px;
     margin: 10px;
 }
 
