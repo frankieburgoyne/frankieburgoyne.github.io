@@ -29,3 +29,16 @@ h1{
     width: 500px;
     margin: 20px;
 }
+
+/* Below is for the affinity diagram image */
+
+.assign3{
+    background-color: darkolivegreen;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+}
+.assign3 img{
+    width: 500px;
+    margin: 500px;
+}
