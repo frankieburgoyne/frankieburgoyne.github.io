@@ -48,3 +48,17 @@ h1{
     margin: 30px;
 }
 
+/* Below is for the storyboard image */
+
+.assign4{
+    background-color: darkolivegreen;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+}
+.assign4 img{
+    height: 300px;
+    width: 550px;
+    margin: 30px;
+}
+
