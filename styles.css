@@ -6,6 +6,10 @@ h1 {
     color: rgb(85, 79, 123);
     text-align: center;
 }
+h1:hover {
+    color: rgb(21, 87, 194);
+    text-align: center;
+}
 
 /* Below is for the persona image */
 
@@ -14,6 +18,7 @@ h1 {
     margin: 10px;
     padding: 10px;
     display: flex;
+    border-radius: 20px;
 }
 .assign img {
     height: 400px;
@@ -28,6 +33,7 @@ h1 {
     margin: 10px;
     padding: 10px;
     display: flex;
+    border-radius: 20px;
 }
 .assign2 img {
     width: 500px;
@@ -41,6 +47,7 @@ h1 {
     margin: 10px;
     padding: 10px;
     display: flex;
+    border-radius: 20px;
 }
 .assign3 img {
     height: 300px;
@@ -55,6 +62,7 @@ h1 {
     margin: 10px;
     padding: 10px;
     display: flex;
+    border-radius: 20px;
 }
 .assign4 img {
     height: 300px;
