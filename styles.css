@@ -135,7 +135,7 @@ a::before {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: rgb(35, 0, 61); /* Initial background color */
+    background: black; /* Initial background color */
     top: 0;
     left: 0;
     transform: rotate(-45deg) scale(0.7); /* Adjusted scale to make it smaller */
@@ -145,7 +145,7 @@ a::before {
 }
 
 a:hover {
-    color: indigo; /* Text color turns white when hovering */
+    color: white; /* Text color turns white when hovering */
     transform: translateY(-10px);
 }
 
