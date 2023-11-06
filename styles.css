@@ -24,6 +24,7 @@ h1:hover {
     height: 400px;
     width: 350px;
     margin: 10px;
+    border: 5px solid rgb(0, 0, 90);
 }
 
 /* Below is for the problem statement image */
@@ -38,6 +39,7 @@ h1:hover {
 .assign2 img {
     width: 500px;
     margin: 20px;
+    border: 5px solid rgb(0, 0, 90);
 }
 
 /* Below is for the affinity diagram image */
@@ -53,6 +55,7 @@ h1:hover {
     height: 300px;
     width: 500px;
     margin: 30px;
+    border: 5px solid rgb(0, 0, 90);
 }
 
 /* Below is for the storyboard image */
@@ -68,6 +71,7 @@ h1:hover {
     height: 300px;
     width: 550px;
     margin: 30px;
+    border: 5px solid rgb(0, 0, 90);
 }
 
 /* Below is for hyperlinks */
