@@ -1,14 +1,19 @@
 body {
     background-color: rgb(0, 0, 0);
     font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
 }
 h1 {
     color: rgb(85, 79, 123);
     text-align: center;
+    width: 100%;
+    display: block;
 }
 h1:hover {
     color: rgb(21, 87, 194);
     text-align: center;
+    width: 100%;
 }
 
 /* Below is for the persona image */
@@ -17,8 +22,10 @@ h1:hover {
     background-color: rgb(85, 79, 123);
     margin: 10px;
     padding: 10px;
-    display: flex;
+    display: block;
     border-radius: 20px;
+    box-shadow: 8px 8px yellow;
+    width: 20%;
 }
 .assign img {
     height: 400px;
@@ -39,8 +46,10 @@ h1:hover {
     background-color: rgb(85, 79, 123);
     margin: 10px;
     padding: 10px;
-    display: flex;
+    display: block;
     border-radius: 20px;
+    box-shadow: 8px 8px yellow;
+    width: 20%;
 }
 .assign2 img {
     width: 500px;
@@ -59,8 +68,10 @@ h1:hover {
     background-color: rgb(85, 79, 123);
     margin: 10px;
     padding: 10px;
-    display: flex;
+    display: block;
     border-radius: 20px;
+    box-shadow: 8px 8px yellow;
+    width: 20%;
 }
 .assign3 img {
     height: 300px;
@@ -81,8 +92,10 @@ h1:hover {
     background-color: rgb(85, 79, 123);
     margin: 10px;
     padding: 10px;
-    display: flex;
+    display: block;
     border-radius: 20px;
+    box-shadow: 8px 8px yellow;
+    width: 20%;
 }
 .assign4 img {
     height: 300px;
@@ -103,8 +116,10 @@ h1:hover {
     background-color: rgb(85, 79, 123);
     margin: 10px;
     padding: 10px;
-    display: flex;
+    display: block;
     border-radius: 20px;
+    box-shadow: 8px 8px yellow;
+    width: 20%;
 }
 .assign5 img {
     height: 400px;
