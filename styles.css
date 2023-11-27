@@ -29,13 +29,13 @@ h1:hover {
 }
 .assign img {
     height: 400px;
-    width: 350px;
+    width: 300px;
     margin: 10px;
     border: 5px solid rgb(0, 0, 90);
 }
 .assign img:hover {
     height: 400px;
-    width: 350px;
+    width: 300px;
     margin: 10px;
     border: 5px inset yellow;
 }
@@ -52,13 +52,13 @@ h1:hover {
     width: 20%;
 }
 .assign2 img {
-    width: 500px;
-    margin: 20px;
+    width: 300px;
+    margin: 10px;
     border: 5px solid rgb(0, 0, 90);
 }
 .assign2 img:hover {
-    width: 500px;
-    margin: 20px;
+    width: 300px;
+    margin: 10px;
     border: 5px inset yellow;
 }
 
@@ -75,14 +75,14 @@ h1:hover {
 }
 .assign3 img {
     height: 300px;
-    width: 500px;
-    margin: 30px;
+    width: 300px;
+    margin: 10px;
     border: 5px solid rgb(0, 0, 90);
 }
 .assign3 img:hover {
     height: 300px;
-    width: 500px;
-    margin: 30px;
+    width: 300px;
+    margin: 10px;
     border: 5px inset yellow;
 }
 
@@ -99,14 +99,14 @@ h1:hover {
 }
 .assign4 img {
     height: 300px;
-    width: 550px;
-    margin: 30px;
+    width: 300px;
+    margin: 10px;
     border: 5px solid rgb(0, 0, 90);
 }
 .assign4 img:hover {
     height: 300px;
-    width: 550px;
-    margin: 30px;
+    width: 300px;
+    margin: 10px;
     border: 5px inset yellow;
 }
 
@@ -123,13 +123,13 @@ h1:hover {
 }
 .assign5 img {
     height: 400px;
-    width: 350px;
+    width: 300px;
     margin: 10px;
     border: 5px solid rgb(0, 0, 90);
 }
 .assign5 img:hover {
     height: 400px;
-    width: 350px;
+    width: 300px;
     margin: 10px;
     border: 5px inset yellow;
 }
